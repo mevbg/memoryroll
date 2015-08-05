@@ -1,4 +1,4 @@
-# jQuery MemoryRoll Plugin v0.1.0
+# jQuery MemoryRoll Plugin v1.0.0
 
 Smart sequence loop starting from a random number.
 
