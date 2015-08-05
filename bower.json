@@ -41,7 +41,7 @@
   "main": [
     "dist/js/jquery.memoryroll.js",
     "dist/js/jquery.memoryroll.min.js",
-    "dist/js/jquery.memoryroll.min.js.map",
+    "dist/js/jquery.memoryroll.min.js.map"
   ],
   "ignore": [
     "**/.*",
