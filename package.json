@@ -1,0 +1,58 @@
+{
+  "name": "memoryroll",
+  "title": "jQuery MemoryRoll Plugin",
+  "description": "Smart sequence loop starting from a random number",
+  "keywords": [
+    "memoryroll",
+    "sequence",
+    "loop",
+    "random",
+    "rotate",
+    "roll",
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "jQuery",
+    "plugin"
+  ],
+  "version": "0.1.0",
+  "homepage": "http://memoryroll.martinmetodiev.com",
+  "demo": "http://memoryroll.martinmetodiev.com",
+  "author": {
+    "name": "Martin Metodiev",
+    "email": "metodiev.martin@gmail.com",
+    "url": "http://martinmetodiev.com"
+  },
+  "maintainers": [
+    {
+      "name": "Martin Metodiev",
+      "email": "metodiev.martin@gmail.com",
+      "url": "http://martinmetodiev.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/martinmethod/memoryroll.git"
+  },
+  "bugs": {
+    "url": "https://github.com/martinmethod/memoryroll/issues"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-csslint": "^0.5.0",
+    "grunt-contrib-concat": "~0.5.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-less": "^1.0.0",
+    "grunt-bump": "^0.3.1",
+    "grunt-text-replace": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "main": "dist/js/jquery.memoryroll.min.js",
+  "directories": {},
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
