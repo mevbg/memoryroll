@@ -6,6 +6,10 @@ Smart sequence loop starting from a random number.
 
 This is a little jQuery plugin which when first called generates a random number in the given range, saves it in the localStorage with the name given and returns the value generated. Every subsequent call the plugin reads the saved number and returns the next one in the range. After doing this, the plugin saves the new value. If the number in the localStorage is the upper range limit it loops around and returns the first number in the range.
 
+## Demo
+
+<a href="http://memoryroll.martinmetodiev.com" target="_blank">memoryroll.martinmetodiev.com</a>
+
 ## Getting Started
 
 You can [download the plugin as an archive][zip].
