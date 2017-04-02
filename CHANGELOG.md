@@ -1,3 +1,13 @@
+<a name="1.2.11"></a>
+## 1.2.11 (2017-04-02)
+
+
+### Bug Fixes
+
+* **npm deployment:** Changed token ([2afd8fb](https://github.com/martinmethod/memoryroll/commit/2afd8fb))
+
+
+
 <a name="1.2.10"></a>
 ## 1.2.10 (2017-04-02)
 
