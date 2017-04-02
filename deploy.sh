@@ -4,14 +4,14 @@ set -e # Exit with nonzero exit code if anything fails
 # Define variables
 PRODUCTION_BRANCH="prod"
 PAGES_BRANCH="gh-pages"
-PROJECT_DIR="project"
+DEPLOY_DIR="deploy_dir"
 REPO=`git config remote.origin.url`
 SSH_REPO=${REPO/https:\/\/github.com\//git@github.com:}
 SHA=`git rev-parse --verify HEAD`
 
 # Clone a working repository and get inside
-git clone $REPO $PROJECT_DIR
-cd $PROJECT_DIR
+git clone $REPO $DEPLOY_DIR
+cd $DEPLOY_DIR
 
 # Change the remote url from https:// to git@
 git remote set-url origin $SSH_REPO
