@@ -37,13 +37,7 @@
     "dist/js/jquery.memoryroll.min.js.map"
   ],
   "ignore": [
-    "**/.*",
-    "configs",
-    "assets",
-    "src",
-    "Gruntfile.js",
-    "index.html",
-    "package.json",
+    ".travis.yml",
     "deploy_key.enc",
     "deploy.sh"
   ]
