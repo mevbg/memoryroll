@@ -16,7 +16,7 @@ This is a little jQuery plugin which when first called generates a random number
 
 You can [download the plugin as an archive][zip].
 
-[zip]: https://github.com/martinmethod/memoryroll/zipball/master
+[zip]: https://github.com/martinmethod/memoryroll/zipball/prod
 
 Or you can grab it by using **npm**:
 
@@ -66,4 +66,4 @@ var number = $.memoryroll({
 
 Copyright © 2017 Martin Metodiev. Licensed under the MIT license. [See here for more details.][licence]
 
-[licence]: https://raw.github.com/martinmethod/memoryroll/master/LICENSE-MIT
+[licence]: https://raw.github.com/martinmethod/memoryroll/prod/LICENSE-MIT
