@@ -1,3 +1,13 @@
+<a name="1.2.3"></a>
+## 1.2.3 (2017-04-02)
+
+
+### Bug Fixes
+
+* **Deployment:** Refactoring ([0027383](https://github.com/martinmethod/memoryroll/commit/0027383))
+
+
+
 <a name="1.2.2"></a>
 ## 1.2.2 (2017-04-02)
 
