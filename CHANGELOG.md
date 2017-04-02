@@ -1,3 +1,13 @@
+<a name="1.2.5"></a>
+## 1.2.5 (2017-04-02)
+
+
+### Bug Fixes
+
+* **Deployment:** Go back to the root folder ([32d4b26](https://github.com/martinmethod/memoryroll/commit/32d4b26))
+
+
+
 <a name="1.2.4"></a>
 ## 1.2.4 (2017-04-02)
 

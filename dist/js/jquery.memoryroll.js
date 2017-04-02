@@ -1,5 +1,5 @@
 /*! 
- jQuery MemoryRoll Plugin v1.2.4
+ jQuery MemoryRoll Plugin v1.2.5
  http://memoryroll.martinmetodiev.com
 
  Copyright (c) 2017 Martin Metodiev
