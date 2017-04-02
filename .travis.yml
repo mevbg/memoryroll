@@ -6,9 +6,6 @@ env:
   global:
   - ENCRYPTION_LABEL: 08094130644d
   - COMMIT_AUTHOR_EMAIL: metodiev.martin@gmail.com
-branches:
-  only:
-  - prod
 deploy:
   provider: npm
   email: metodiev.martin@gmail.com
