@@ -1,3 +1,13 @@
+<a name="1.2.1"></a>
+## 1.2.1 (2017-04-02)
+
+
+### Bug Fixes
+
+* **npm deployment:** Removed branch limitation ([4fa58c7](https://github.com/martinmethod/memoryroll/commit/4fa58c7))
+
+
+
 <a name="1.2.0"></a>
 # 1.2.0 (2017-04-02)
 
