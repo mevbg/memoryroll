@@ -38,10 +38,9 @@
   ],
   "ignore": [
     "**/.*",
-    "demo_components",
-    ".bowerrc",
-    ".csslintrc",
-    ".jshintrc",
+    "configs",
+    "assets",
+    "src",
     "Gruntfile.js",
     "index.html",
     "package.json"
