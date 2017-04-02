@@ -1,3 +1,30 @@
+<a name="1.2.8"></a>
+## 1.2.8 (2017-04-02)
+
+
+### Bug Fixes
+
+* **Bower:** Ignored deployment files ([0e67146](https://github.com/martinmethod/memoryroll/commit/0e67146))
+* **Bower:** Unignore source and docs files ([f7a3d76](https://github.com/martinmethod/memoryroll/commit/f7a3d76))
+* **Deployment:** Added "all_branches: true" ([d8786cc](https://github.com/martinmethod/memoryroll/commit/d8786cc))
+* **Deployment:** Go back to "prod" branch in the end ([e58d626](https://github.com/martinmethod/memoryroll/commit/e58d626))
+* **Deployment:** Go back to the root folder ([32d4b26](https://github.com/martinmethod/memoryroll/commit/32d4b26))
+* **Deployment:** Missed "on:" above "tags: true" ([3db5b37](https://github.com/martinmethod/memoryroll/commit/3db5b37))
+* **Deployment:** Refactoring ([0027383](https://github.com/martinmethod/memoryroll/commit/0027383))
+* **Deployment:** Removed branch restriction ([a7c997b](https://github.com/martinmethod/memoryroll/commit/a7c997b))
+* **Docs:** Broken links ([f641dd2](https://github.com/martinmethod/memoryroll/commit/f641dd2))
+* **npm:** Auto-deploying to npm's registry ([ebdd237](https://github.com/martinmethod/memoryroll/commit/ebdd237))
+* **npm deployment:** Removed branch limitation ([4fa58c7](https://github.com/martinmethod/memoryroll/commit/4fa58c7))
+* **npm deployment:** Trigger publishing on tags ([66739ab](https://github.com/martinmethod/memoryroll/commit/66739ab))
+
+
+### Features
+
+* **Building system:** Refactored building system ([ff8016e](https://github.com/martinmethod/memoryroll/commit/ff8016e))
+* **npm:** Auto publishing to npm registry ([81705b5](https://github.com/martinmethod/memoryroll/commit/81705b5))
+
+
+
 <a name="1.2.7"></a>
 ## 1.2.7 (2017-04-02)
 
