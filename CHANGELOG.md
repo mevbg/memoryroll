@@ -1,3 +1,13 @@
+<a name="1.2.2"></a>
+## 1.2.2 (2017-04-02)
+
+
+### Bug Fixes
+
+* **npm deployment:** Trigger publishing on tags ([66739ab](https://github.com/martinmethod/memoryroll/commit/66739ab))
+
+
+
 <a name="1.2.1"></a>
 ## 1.2.1 (2017-04-02)
 
