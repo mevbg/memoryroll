@@ -1,3 +1,14 @@
+<a name="1.2.7"></a>
+## 1.2.7 (2017-04-02)
+
+
+### Bug Fixes
+
+* **Deployment:** Added "all_branches: true" ([d8786cc](https://github.com/martinmethod/memoryroll/commit/d8786cc))
+* **Deployment:** Removed branch restriction ([a7c997b](https://github.com/martinmethod/memoryroll/commit/a7c997b))
+
+
+
 <a name="1.2.6"></a>
 ## 1.2.6 (2017-04-02)
 
