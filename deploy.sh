@@ -55,3 +55,6 @@ git push origin --delete $PAGES_BRANCH
 
 # Push the new page branch to origin
 git push $SSH_REPO $PAGES_BRANCH
+
+# Return back to production branch
+git checkout $PRODUCTION_BRANCH

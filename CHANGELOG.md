@@ -1,3 +1,13 @@
+<a name="1.2.4"></a>
+## 1.2.4 (2017-04-02)
+
+
+### Bug Fixes
+
+* **Deployment:** Go back to "prod" branch in the end ([e58d626](https://github.com/martinmethod/memoryroll/commit/e58d626))
+
+
+
 <a name="1.2.3"></a>
 ## 1.2.3 (2017-04-02)
 
