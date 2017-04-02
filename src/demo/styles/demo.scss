@@ -1,0 +1,95 @@
+// =========================| Demo styles |========================= //
+
+
+
+//--------------------------| Compass
+
+@import '../../../node_modules/compass-mixins/lib/compass';
+
+
+
+//====================> 1. Base
+
+.demo-holder {
+
+  $result-col: #444;
+  $disabled-col: #bbb;
+  $disabled-bgr: #eee;
+
+  .content {
+    .ttl,
+    .field {
+      float: left;
+    }
+
+    .ttl {
+      display: inline-block;
+      line-height: 32px;
+      margin-right: 10px;
+      width: 50px;
+    }
+
+    .lbl {
+      font-size: 14px;
+      padding-right: 4px;
+    }
+
+    .range {
+      input {
+        display: inline-block;
+        margin-right: 10px;
+        text-align: right;
+        width: 50px;
+      }
+
+      .disabled {
+        background-color: $disabled-bgr;
+        color: $disabled-col;
+      }
+    }
+
+    .buttons {
+      margin-top: 20px;
+
+      input {
+        display: inline-block;
+        margin: 0 10px 10px 0;
+        min-width: 108px;
+      }
+
+      .reset {
+        display: none;
+      }
+    }
+
+    .result {
+      color: $result-col;
+      margin-top: 10px;
+
+      .ttl {
+        display: inline;
+        float: none;
+        line-height: normal;
+      }
+    }
+
+    .buttons,
+    .result {
+      clear: both;
+      width: 100%;
+    }
+  }
+
+}
+
+.mobile {
+  .non-mobile {
+    .content {
+      display: none;
+    }
+
+    &::after {
+      content: 'This plugin is not available for mobile devices.';
+    }
+  }
+}

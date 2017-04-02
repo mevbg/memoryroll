@@ -1,11 +1,3 @@
-/*! 
- jQuery MemoryRoll Plugin v1.1.0
- http://memoryroll.martinmetodiev.com
-
- Copyright (c) 2017 Martin Metodiev
- Licensed under the MIT license.
-*/
-
 ;(function($) {
 
   'use strict';

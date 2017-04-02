@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - "node"
+
+script: bash ./deploy.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: "08094130644d"
+  - COMMIT_AUTHOR_EMAIL: "metodiev.martin@gmail.com"
+
+branches:
+  only:
+  - release
