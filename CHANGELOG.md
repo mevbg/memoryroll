@@ -1,3 +1,13 @@
+<a name="1.2.6"></a>
+## 1.2.6 (2017-04-02)
+
+
+### Bug Fixes
+
+* **Deployment:** Missed "on:" above "tags: true" ([3db5b37](https://github.com/martinmethod/memoryroll/commit/3db5b37))
+
+
+
 <a name="1.2.5"></a>
 ## 1.2.5 (2017-04-02)
 
