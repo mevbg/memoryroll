@@ -1,3 +1,13 @@
+<a name="1.1.2"></a>
+## 1.1.2 (2017-04-02)
+
+
+### Bug Fixes
+
+* **Bower:** Ignored deployment files ([0e67146](https://github.com/martinmethod/memoryroll/commit/0e67146))
+
+
+
 <a name="1.1.1"></a>
 ## 1.1.1 (2017-04-02)
 

@@ -14,7 +14,7 @@
     "jQuery",
     "plugin"
   ],
-  "version": "1.1.1",
+  "version": "1.1.2",
   "homepage": "http://memoryroll.martinmetodiev.com",
   "authors": [
     {
@@ -43,6 +43,8 @@
     "src",
     "Gruntfile.js",
     "index.html",
-    "package.json"
+    "package.json",
+    "deploy_key.enc",
+    "deploy.sh"
   ]
 }
