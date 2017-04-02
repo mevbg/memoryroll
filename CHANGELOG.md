@@ -1,3 +1,13 @@
+<a name="1.1.3"></a>
+## 1.1.3 (2017-04-02)
+
+
+### Bug Fixes
+
+* **Bower:** Unignore source and docs files ([f7a3d76](https://github.com/martinmethod/memoryroll/commit/f7a3d76))
+
+
+
 <a name="1.1.2"></a>
 ## 1.1.2 (2017-04-02)
 
