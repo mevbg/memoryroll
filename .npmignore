@@ -1,3 +1,4 @@
 .travis.yml
+deploy_dir
 deploy_key.enc
 deploy.sh
