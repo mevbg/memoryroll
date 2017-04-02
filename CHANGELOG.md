@@ -1,3 +1,13 @@
+<a name="1.2.0"></a>
+# 1.2.0 (2017-04-02)
+
+
+### Features
+
+* **npm:** Auto publishing to npm registry ([81705b5](https://github.com/martinmethod/memoryroll/commit/81705b5))
+
+
+
 <a name="1.1.3"></a>
 ## 1.1.3 (2017-04-02)
 
