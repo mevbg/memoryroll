@@ -43,6 +43,8 @@
     "src",
     "Gruntfile.js",
     "index.html",
-    "package.json"
+    "package.json",
+    "deploy_key.enc",
+    "deploy.sh"
   ]
 }
