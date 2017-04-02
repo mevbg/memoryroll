@@ -8,7 +8,7 @@ env:
   - COMMIT_AUTHOR_EMAIL: metodiev.martin@gmail.com
 branches:
   only:
-  - release
+  - prod
 deploy:
   provider: npm
   email: metodiev.martin@gmail.com
