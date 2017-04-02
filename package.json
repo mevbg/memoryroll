@@ -14,7 +14,7 @@
     "jQuery",
     "plugin"
   ],
-  "version": "1.2.9",
+  "version": "1.2.10",
   "homepage": "http://memoryroll.martinmetodiev.com",
   "demo": "http://memoryroll.martinmetodiev.com",
   "author": {
@@ -50,7 +50,6 @@
     "grunt-contrib-connect": "^1.0.2",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-pug": "^1.0.0",
-    "grunt-contrib-cssmin": "^2.0.0",
     "grunt-contrib-htmlmin": "^2.0.0",
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-uglify": "^2.0.0",

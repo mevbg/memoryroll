@@ -81,15 +81,3 @@
   }
 
 }
-
-.mobile {
-  .non-mobile {
-    .content {
-      display: none;
-    }
-
-    &::after {
-      content: 'This plugin is not available for mobile devices.';
-    }
-  }
-}
