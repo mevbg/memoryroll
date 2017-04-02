@@ -1,3 +1,14 @@
+<a name="1.2.10"></a>
+## 1.2.10 (2017-04-02)
+
+
+### Bug Fixes
+
+* **Deploy:** Changed npm token ([4be2a5d](https://github.com/martinmethod/memoryroll/commit/4be2a5d))
+* **Mobile styles:** Removed mobile limitation ([8749e59](https://github.com/martinmethod/memoryroll/commit/8749e59))
+
+
+
 <a name="1.2.9"></a>
 ## 1.2.9 (2017-04-02)
 
