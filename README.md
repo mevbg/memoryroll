@@ -1,6 +1,8 @@
-# jQuery MemoryRoll Plugin v1.0.3
+# jQuery MemoryRoll Plugin
 
 Smart sequence loop starting from a random number.
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/) [![Travis](https://img.shields.io/travis/martinmethod/memoryroll.svg)](https://travis-ci.org/martinmethod/memoryroll) [![David](https://img.shields.io/david/dev/martinmethod/memoryroll.svg)](https://david-dm.org/martinmethod/memoryroll?type=dev) [![GitHub release](https://img.shields.io/github/release/martinmethod/memoryroll.svg)](https://github.com/martinmethod/memoryroll/releases/latest)
 
 ## Description
 
@@ -62,6 +64,6 @@ var number = $.memoryroll({
 
 ## License
 
-Copyright © 2015 Martin Metodiev. Licensed under the MIT license. [See here for more details.][licence]
+Copyright © 2017 Martin Metodiev. Licensed under the MIT license. [See here for more details.][licence]
 
 [licence]: https://raw.github.com/martinmethod/memoryroll/master/LICENSE-MIT
