@@ -37,8 +37,6 @@
     "dist/js/jquery.memoryroll.min.js.map"
   ],
   "ignore": [
-    ".travis.yml",
-    "deploy_key.enc",
-    "deploy.sh"
+    ".travis.yml"
   ]
 }
