@@ -1,18 +1,3 @@
-<a name="1.3.0"></a>
-# 1.3.0 (2017-04-05)
-
-
-### Bug Fixes
-
-* **Google Analytics:** Missed ID ([9f0f721](https://github.com/martinmethod/memoryroll/commit/9f0f721))
-
-
-### Features
-
-* **Deploy:** npm, GitHub Pages & GitHub Releases ([ad3aaf5](https://github.com/martinmethod/memoryroll/commit/ad3aaf5))
-
-
-
 <a name="1.2.11"></a>
 ## 1.2.11 (2017-04-02)
 
