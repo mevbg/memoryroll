@@ -1,3 +1,13 @@
+<a name="1.3.1"></a>
+## 1.3.1 (2017-04-05)
+
+
+### Bug Fixes
+
+* **Deploy:** Wrong GitHub tokens ([da40dfd](https://github.com/martinmethod/memoryroll/commit/da40dfd))
+
+
+
 <a name="1.2.11"></a>
 ## 1.2.11 (2017-04-02)
 
