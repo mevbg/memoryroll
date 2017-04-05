@@ -41,10 +41,6 @@ module.exports = {
     ].join('&&')
   },
 
-  domain: {
-    command: 'printf "' + grunt.pluginData.domain + '" > CNAME'
-  },
-
   release: {
     command: [
       'git add . && git commit -m "v<%= pkg.version %>"',
@@ -59,7 +55,8 @@ module.exports = {
       'git merge --no-ff release -m \'Merge branch "release" into "dev"\'',
       'git push',
       'git branch -D release && git branch -D staging && git branch -D prod',
-      'grunt concurrent:review'
+      'grunt concurrent:review',
+      'grunt build'
     ].join('&&')
   }
 };
