@@ -1,3 +1,13 @@
+<a name="1.3.2"></a>
+## 1.3.2 (2017-04-11)
+
+
+### Features
+
+* **Build:** External markup support ([dad36b4](https://github.com/martinmethod/memoryroll/commit/dad36b4))
+
+
+
 <a name="1.3.1"></a>
 ## 1.3.1 (2017-04-05)
 
