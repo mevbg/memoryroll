@@ -10,7 +10,7 @@ This is a little jQuery plugin which when first called generates a random number
 
 ## Demo
 
-<a href="http://memoryroll.martinmetodiev.com" target="_blank">memoryroll.martinmetodiev.com</a>
+<a href="http://memoryroll.metodiev.dev" target="_blank">memoryroll.metodiev.dev</a>
 
 ## Getting Started
 
