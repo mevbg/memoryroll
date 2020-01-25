@@ -2,7 +2,7 @@
 
 Smart sequence loop starting from a random number.
 
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/) [![GitHub license](https://img.shields.io/badge/license-MIT-yellow.svg)](https://raw.githubusercontent.com/martinmethod/memoryroll/prod/LICENSE-MIT) [![Travis](https://img.shields.io/travis/martinmethod/memoryroll.svg)](https://travis-ci.org/martinmethod/memoryroll) [![David](https://img.shields.io/david/dev/martinmethod/memoryroll.svg)](https://david-dm.org/martinmethod/memoryroll?type=dev) [![GitHub release](https://img.shields.io/github/release/martinmethod/memoryroll.svg)](https://github.com/martinmethod/memoryroll/releases/latest) [![npm](https://img.shields.io/npm/v/memoryroll.svg)](https://www.npmjs.com/package/memoryroll) [![Bower](https://img.shields.io/bower/v/memoryroll.svg)](https://github.com/martinmethod/memoryroll)
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/) [![GitHub license](https://img.shields.io/badge/license-MIT-yellow.svg)](https://raw.githubusercontent.com/martinmethod/memoryroll/prod/LICENSE-MIT) [![Travis](https://img.shields.io/travis/martinmethod/memoryroll.svg)](https://travis-ci.org/martinmethod/memoryroll) [![David](https://img.shields.io/david/dev/martinmethod/memoryroll.svg)](https://david-dm.org/martinmethod/memoryroll?type=dev) [![GitHub release](https://img.shields.io/github/release/martinmethod/memoryroll.svg)](https://github.com/martinmethod/memoryroll/releases/latest) [![npm](https://img.shields.io/npm/v/memoryroll.svg)](https://www.npmjs.com/package/memoryroll) [![Bower](https://img.shields.io/bower/v/memoryroll.svg)](https://github.com/martinmethod/memoryroll)
 
 ## Description
 
@@ -10,7 +10,7 @@ This is a little jQuery plugin which when first called generates a random number
 
 ## Demo
 
-<a href="http://memoryroll.metodiev.dev" target="_blank">memoryroll.metodiev.dev</a>
+<a href="https://memoryroll.metodiev.dev" target="_blank">memoryroll.metodiev.dev</a>
 
 ## Getting Started
 
