@@ -1,8 +1,8 @@
 /*! 
- jQuery MemoryRoll Plugin v1.3.2
- http://memoryroll.martinmetodiev.com
+ jQuery MemoryRoll Plugin v1.4.0
+ https://memoryroll.metodiev.dev
 
- Copyright (c) 2017 Martin Metodiev
+ Copyright (c) 2020 Martin Metodiev
  Licensed under the MIT license.
 */
 
