@@ -35,8 +35,5 @@
     "dist/js/jquery.memoryroll.js",
     "dist/js/jquery.memoryroll.min.js",
     "dist/js/jquery.memoryroll.min.js.map"
-  ],
-  "ignore": [
-    ".travis.yml"
   ]
 }
