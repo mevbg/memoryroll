@@ -2,8 +2,6 @@
 
 Smart sequence loop starting from a random number.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-yellow.svg)](https://raw.githubusercontent.com/martinmethod/memoryroll/prod/LICENSE-MIT) [![Travis](https://img.shields.io/travis/martinmethod/memoryroll.svg)](https://travis-ci.org/martinmethod/memoryroll) [![David](https://img.shields.io/david/dev/martinmethod/memoryroll.svg)](https://david-dm.org/martinmethod/memoryroll?type=dev) [![GitHub release](https://img.shields.io/github/release/martinmethod/memoryroll.svg)](https://github.com/martinmethod/memoryroll/releases/latest) [![npm](https://img.shields.io/npm/v/memoryroll.svg)](https://www.npmjs.com/package/memoryroll) [![Bower](https://img.shields.io/bower/v/memoryroll.svg)](https://github.com/martinmethod/memoryroll)
-
 ## Description
 
 This is a little jQuery plugin which when first called generates a random number in the given range, saves it in the localStorage with the name given and returns the value generated. Every subsequent call the plugin reads the saved number and returns the next one in the range. After doing this, the plugin saves the new value. If the number in the localStorage is the upper range limit it loops around and returns the first number in the range.
