@@ -8,13 +8,13 @@ This is a little jQuery plugin which when first called generates a random number
 
 ## Demo
 
-<a href="https://memoryroll.metodiev.dev" target="_blank">memoryroll.metodiev.dev</a>
+<a href="https://memoryroll.mev.bg" target="_blank">memoryroll.mev.bg</a>
 
 ## Getting Started
 
 You can [download the plugin as an archive][zip].
 
-[zip]: https://github.com/martinmethod/memoryroll/zipball/prod
+[zip]: https://github.com/mevbg/memoryroll/zipball/prod
 
 Or you can grab it by using **npm**:
 
@@ -64,4 +64,4 @@ var number = $.memoryroll({
 
 Copyright © 2017 Martin Metodiev. Licensed under the MIT license. [See here for more details.][licence]
 
-[licence]: https://raw.github.com/martinmethod/memoryroll/prod/LICENSE-MIT
+[licence]: https://raw.github.com/mevbg/memoryroll/prod/LICENSE-MIT

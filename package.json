@@ -15,26 +15,26 @@
     "plugin"
   ],
   "version": "1.4.0",
-  "homepage": "https://memoryroll.metodiev.dev",
-  "demo": "https://memoryroll.metodiev.dev",
+  "homepage": "https://memoryroll.mev.bg",
+  "demo": "https://memoryroll.mev.bg",
   "author": {
     "name": "Martin Metodiev",
-    "email": "metodiev.martin@gmail.com",
-    "url": "https://metodiev.dev"
+    "email": "martin@mev.bg",
+    "url": "https://mev.bg"
   },
   "maintainers": [
     {
       "name": "Martin Metodiev",
-      "email": "metodiev.martin@gmail.com",
-      "url": "https://metodiev.dev"
+      "email": "martin@mev.bg",
+      "url": "https://mev.bg"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/martinmethod/memoryroll.git"
+    "url": "git://github.com/mevbg/memoryroll.git"
   },
   "bugs": {
-    "url": "https://github.com/martinmethod/memoryroll/issues"
+    "url": "https://github.com/mevbg/memoryroll/issues"
   },
   "license": "MIT",
   "dependencies": {

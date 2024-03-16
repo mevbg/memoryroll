@@ -9,7 +9,7 @@
 
 ### Features
 
-* **Build:** External markup support ([dad36b4](https://github.com/martinmethod/memoryroll/commit/dad36b4))
+* **Build:** External markup support ([dad36b4](https://github.com/mevbg/memoryroll/commit/dad36b4))
 
 
 
@@ -19,7 +19,7 @@
 
 ### Bug Fixes
 
-* **Deploy:** Wrong GitHub tokens ([da40dfd](https://github.com/martinmethod/memoryroll/commit/da40dfd))
+* **Deploy:** Wrong GitHub tokens ([da40dfd](https://github.com/mevbg/memoryroll/commit/da40dfd))
 
 
 
@@ -29,7 +29,7 @@
 
 ### Bug Fixes
 
-* **npm deployment:** Changed token ([2afd8fb](https://github.com/martinmethod/memoryroll/commit/2afd8fb))
+* **npm deployment:** Changed token ([2afd8fb](https://github.com/mevbg/memoryroll/commit/2afd8fb))
 
 
 
@@ -39,8 +39,8 @@
 
 ### Bug Fixes
 
-* **Deploy:** Changed npm token ([4be2a5d](https://github.com/martinmethod/memoryroll/commit/4be2a5d))
-* **Mobile styles:** Removed mobile limitation ([8749e59](https://github.com/martinmethod/memoryroll/commit/8749e59))
+* **Deploy:** Changed npm token ([4be2a5d](https://github.com/mevbg/memoryroll/commit/4be2a5d))
+* **Mobile styles:** Removed mobile limitation ([8749e59](https://github.com/mevbg/memoryroll/commit/8749e59))
 
 
 
@@ -50,8 +50,8 @@
 
 ### Features
 
-* **Building system:** Refactored building system ([ff8016e](https://github.com/martinmethod/memoryroll/commit/ff8016e))
-* **npm:** Auto publishing to npm registry ([81705b5](https://github.com/martinmethod/memoryroll/commit/81705b5))
+* **Building system:** Refactored building system ([ff8016e](https://github.com/mevbg/memoryroll/commit/ff8016e))
+* **npm:** Auto publishing to npm registry ([81705b5](https://github.com/mevbg/memoryroll/commit/81705b5))
 
 
 
@@ -61,7 +61,7 @@
 
 ### Bug Fixes
 
-* **Bower:** Unignore source and docs files ([f7a3d76](https://github.com/martinmethod/memoryroll/commit/f7a3d76))
+* **Bower:** Unignore source and docs files ([f7a3d76](https://github.com/mevbg/memoryroll/commit/f7a3d76))
 
 
 
@@ -71,7 +71,7 @@
 
 ### Bug Fixes
 
-* **Bower:** Ignored deployment files ([0e67146](https://github.com/martinmethod/memoryroll/commit/0e67146))
+* **Bower:** Ignored deployment files ([0e67146](https://github.com/mevbg/memoryroll/commit/0e67146))
 
 
 
@@ -81,7 +81,7 @@
 
 ### Bug Fixes
 
-* **Docs:** Broken links ([f641dd2](https://github.com/martinmethod/memoryroll/commit/f641dd2))
+* **Docs:** Broken links ([f641dd2](https://github.com/mevbg/memoryroll/commit/f641dd2))
 
 
 
@@ -91,7 +91,7 @@
 
 ### Features
 
-* **Building system:** Refactored building system ([ff8016e](https://github.com/martinmethod/memoryroll/commit/ff8016e))
+* **Building system:** Refactored building system ([ff8016e](https://github.com/mevbg/memoryroll/commit/ff8016e))
 
 
 
